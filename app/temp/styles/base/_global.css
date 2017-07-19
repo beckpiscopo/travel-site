@@ -2,13 +2,15 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #333;
 }
-
 img {
   max-width: 100%;
   height: auto;
 }
-
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+a {
+  color: #ff9e43;
+  text-decoration: none;
+  }
